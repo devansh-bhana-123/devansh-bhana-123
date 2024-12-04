@@ -1,5 +1,15 @@
 ## Hi there 👋
-
+## I am Devansh Bhana
+- 🔭 started learning html and css 6 years ago.
+- 🌱 Learnt Intermediate Java for android app development
+- B.E CSE (Ai and Data Science) student at Chandigarh University
+- Winner of an ideathon in first year
+- made over 10+ small android apps
+- made multiple websites in html, css and php
+- Currenlty learning JavaScript for web development
+- I am looking to collaborate in web development projects
+- To reach me out, drop an email at : devanshbhana47@gmail.com
+- Fun fact : I am working on a start up too.
 <!--
 **devansh-bhana-123/devansh-bhana-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
