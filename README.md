@@ -1,8 +1,8 @@
 ## Hi there 👋
 ## I am Devansh Bhana
 - 🔭 started learning html and css 6 years ago.
-- 🌱 Learnt Intermediate Java for android app development
-- B.E CSE (Ai and Data Science) student at Chandigarh University
+- 🌱 Java for android app development
+- B.E CSE (Cloud Computing) student at Chandigarh University
 - Winner of an ideathon in first year
 - made over 10+ small android apps
 - made multiple websites in html, css and php
