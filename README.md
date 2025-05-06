@@ -2,6 +2,7 @@
 ## I am Devansh Bhana
 - 🔭 started learning html and css 6 years ago.
 - 🌱 Java for android app development
+- Owns GlamaRode Technologies (MSME)
 - B.E CSE (Cloud Computing) student at Chandigarh University
 - Winner of an ideathon in first year
 - made over 10+ small android apps
