@@ -4,7 +4,7 @@
 - 🌱 Java/Kotllin for android app development
 - Owns GlamaRode Technologies (MSME Startup)
 - B.E CSE (Data Science) student at Chandigarh University
-- made over 23+ android Android Apps
+- made over 23+ Android Apps
 - made multiple websites in LAMP stack
 - Currenlty learning Data Science and Cloud Computing
 - Email : devanshbhana47@gmail.com
